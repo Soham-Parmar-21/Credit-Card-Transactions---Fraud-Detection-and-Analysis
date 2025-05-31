@@ -1,0 +1,5 @@
+
+1) Link to the Kaggle Dataset:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+2) You can find the actual dashboard in the releases section.

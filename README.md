@@ -1,3 +1,1 @@
-# Credit-Card-Transactions---Fraud-Detection-and-Analysis
-Note: Please find the dashboard of this project in the "Releases" section of this repository.
-This is a self project created by me to detect fraudulent activities and financial risks through credit card transactions.
+ML-based credit card fraud detection and risk scoring system using transaction data. Covers EDA, feature engineering, ML models, fraud probability–based risk scoring, Power BI dashboards for analysis, and a simple deployed app for real-time fraud prediction.
